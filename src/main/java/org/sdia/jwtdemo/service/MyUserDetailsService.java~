@@ -1,0 +1,4 @@
+package org.sdia.jwtdemo.service;
+
+public class MyUserDetailsService {
+}
